@@ -1,5 +1,4 @@
-const developerTeam = ['Ani'];
-const developerTeam = ['Gabe'];
+const developerTeam = ['Ani', 'Gabe'];
 
 console.log("Git Training Field");
 console.log (developerTeam);
