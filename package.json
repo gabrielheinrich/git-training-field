@@ -5,7 +5,7 @@
   "repository": "https://github.com/gabrielheinrich/git-training-field.git",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "main": "node index.js"
   },
   "keywords": [],
   "author": "",
